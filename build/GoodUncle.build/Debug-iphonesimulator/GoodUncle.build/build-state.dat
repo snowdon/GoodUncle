@@ -1,0 +1,632 @@
+TGoodUncle
+v7
+r0
+t321713941.593073
+cCheck dependencies
+cProcessInfoPlistFile /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Info.plist GoodUncle-Info.plist
+cCompileXIB /Users/chuns/Documents/Projects/GoodUncle/MainWindow.xib
+cCompileXIB /Users/chuns/Documents/Projects/GoodUncle/RootViewController.xib
+cCompileXIB /Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.xib
+cCopyPlistFile /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Tips.plist Tips.plist
+cProcessPCH /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-fxwwpcjgrprgkdfftkmpeiqzupyg/GoodUncle_Prefix.pch.gch GoodUncle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/main.o /Users/chuns/Documents/Projects/GoodUncle/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncleAppDelegate.o /Users/chuns/Documents/Projects/GoodUncle/Classes/GoodUncleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/RootViewController.o /Users/chuns/Documents/Projects/GoodUncle/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/TipDetailViewController.o /Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle normal i386
+cGenerateDSYMFile /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app.dSYM /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle
+cTouch /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/GoodUncleAppDelegate.h
+c000000004D60BF5200000000000001D3
+t1298186066
+s467
+i<UIKit/UIKit.h>
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/GoodUncleAppDelegate.m
+c000000004D60BF520000000000000AA9
+t1298186066
+s2729
+i"GoodUncleAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/RootViewController.h
+c000000004D60E7B20000000000000133
+t1298196402
+s307
+i<UIKit/UIKit.h>
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/RootViewController.m
+c000000004D63AFAE000000000000128B
+t1298378670
+s4747
+i"RootViewController.h"
+i"TipDetailViewController.h"
+i"TipConstants.h"
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.h
+c000000004D63B59F00000000000001F7
+t1298380191
+s503
+i<UIKit/UIKit.h>
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.m
+c000000004D63B5AE0000000000000704
+t1298380206
+s1796
+i"TipDetailViewController.h"
+i"TipConstants.h"
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.xib
+c000000004D63B581000000000000580D
+t1298380161
+s22541
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/GoodUncle_Prefix.pch
+c000000004D60BF520000000000000144
+t1298186066
+s324
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/MainWindow.xib
+c000000004D60C17B0000000000006132
+t1298186619
+s24882
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/RootViewController.xib
+c000000004D60BF520000000000004454
+t1298186066
+s17492
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/TOC.plist
+c000000004D608CA10000000000000560
+t1298173089
+s1376
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/TipArray.plist
+c000000004D60C175000000000000010F
+t1298186613
+s271
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/TipConstants.h
+c000000004D60E93B000000000000003B
+t1298196795
+s59
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Tips.plist
+c000000004D6102AD0000000000000618
+t1298203309
+s1560
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/UncleTips.plist
+c000000004D608CA10000000000000560
+t1298173089
+s1376
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app
+t1298380208
+s374
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app.dSYM
+t1298380208
+s102
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle
+t1298380208
+s25332
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Info.plist
+t1298186097
+s599
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/MainWindow.nib
+t1298186646
+s1541
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/PkgInfo
+t1298186097
+s8
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/RootViewController.nib
+t1298186098
+s979
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/TOC.plist
+t2
+s0
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/TipArray.plist
+t1298186646
+s75
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/TipDetailViewController.nib
+t1298380191
+s2166
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Tips.plist
+t1298203310
+s675
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/UncleTips.plist
+t1298196252
+s404
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncle.LinkFileList
+c000000004D60EABE0000000000000269
+t1298197182
+s617
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncleAppDelegate.o
+t1298196512
+s52744
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/RootViewController.o
+t1298380191
+s46792
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/TipDetailViewController.o
+t1298380208
+s43996
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/main.o
+t1298186099
+s6336
+
+N/Users/chuns/Documents/MyPrograms/Production/GoodUncle/main.m
+c000000004D60BF520000000000000165
+t1298186066
+s357
+i<UIKit/UIKit.h>
+
+N/Users/chuns/Documents/Projects/GoodUncle/Classes/GoodUncleAppDelegate.h
+c000000004D60BF5200000000000001D3
+t1298186066
+s467
+i<UIKit/UIKit.h>
+
+N/Users/chuns/Documents/Projects/GoodUncle/Classes/GoodUncleAppDelegate.m
+c000000004D60BF520000000000000AA9
+t1298186066
+s2729
+i"GoodUncleAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/chuns/Documents/Projects/GoodUncle/Classes/RootViewController.h
+c000000004D60E7B20000000000000133
+t1298196402
+s307
+i<UIKit/UIKit.h>
+
+N/Users/chuns/Documents/Projects/GoodUncle/Classes/RootViewController.m
+c000000004D63AFAE000000000000128B
+t1298378670
+s4747
+i"RootViewController.h"
+i"TipDetailViewController.h"
+i"TipConstants.h"
+
+N/Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.h
+c000000004D63B59F00000000000001F7
+t1298380191
+s503
+i<UIKit/UIKit.h>
+
+N/Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.m
+c000000004D63B5AE0000000000000704
+t1298380206
+s1796
+i"TipDetailViewController.h"
+i"TipConstants.h"
+
+N/Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.xib
+c000000004D63B581000000000000580D
+t1298380161
+s22541
+
+N/Users/chuns/Documents/Projects/GoodUncle/GoodUncle_Prefix.pch
+c000000004D60BF520000000000000144
+t1298186066
+s324
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/chuns/Documents/Projects/GoodUncle/MainWindow.xib
+c000000004D60C17B0000000000006132
+t1298186619
+s24882
+
+N/Users/chuns/Documents/Projects/GoodUncle/RootViewController.xib
+c000000004D60BF520000000000004454
+t1298186066
+s17492
+
+N/Users/chuns/Documents/Projects/GoodUncle/TipConstants.h
+c000000004D60E93B000000000000003B
+t1298196795
+s59
+
+N/Users/chuns/Documents/Projects/GoodUncle/Tips.plist
+c000000004D6102AD0000000000000618
+t1298203309
+s1560
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app
+t1300016721
+s374
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app.dSYM
+t1300016721
+s102
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle
+t1300016721
+s25228
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Info.plist
+t1298186097
+s599
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/MainWindow.nib
+t1298186646
+s1541
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/PkgInfo
+t1298186097
+s8
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/RootViewController.nib
+t1298186098
+s979
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/TipDetailViewController.nib
+t1298380191
+s2166
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Tips.plist
+t1298203310
+s675
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncle.LinkFileList
+c000000004D7CAE4F0000000000000235
+t1300016719
+s565
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncleAppDelegate.o
+t1300016721
+s52716
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/RootViewController.o
+t1300016721
+s46764
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/TipDetailViewController.o
+t1300016721
+s43968
+
+N/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/main.o
+t1300016721
+s6308
+
+N/Users/chuns/Documents/Projects/GoodUncle/main.m
+c000000004D60BF520000000000000165
+t1298186066
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-fxwwpcjgrprgkdfftkmpeiqzupyg/GoodUncle_Prefix.pch.gch
+t1300016720
+s15453392
+
+N/var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-gaifeslzdfsvcxehwuftmynlaney/GoodUncle_Prefix.pch.gch
+t1298186098
+s15453392
+
+NGoodUncle-Info.plist
+c000000004D60BF52000000000000038D
+t1298186066
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321713941#321713941#0(0"0(0#1#0"8609051520#0"0#
+
+CCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncleAppDelegate.o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/GoodUncleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319889312.631388
+e319889312.738560
+r1
+xCompileC
+xbuild/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncleAppDelegate.o
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/GoodUncleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/GoodUncleAppDelegate.m319889312#319889312#0(0"0(0#0#85"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/GoodUncleAppDelegate.m8616724992#2170"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-generated-files.hmap -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-own-target-headers.hmap -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-all-target-headers.hmap -iquote /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-project-headers.hmap -F/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/include -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources/i386 -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources -include /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-gaifeslzdfsvcxehwuftmynlaney/GoodUncle_Prefix.pch -c /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/GoodUncleAppDelegate.m -o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncleAppDelegate.o0#
+
+CCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncleAppDelegate.o /Users/chuns/Documents/Projects/GoodUncle/Classes/GoodUncleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321709521.124576
+e321709521.402932
+r1
+xCompileC
+xbuild/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncleAppDelegate.o
+x/Users/chuns/Documents/Projects/GoodUncle/Classes/GoodUncleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/chuns/Documents/Projects/GoodUncle/Classes/GoodUncleAppDelegate.m321709521#321709521#0(0"0(0#0#72"/Users/chuns/Documents/Projects/GoodUncle/Classes/GoodUncleAppDelegate.m8606838464#2027"    cd /Users/chuns/Documents/Projects/GoodUncle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-generated-files.hmap -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-own-target-headers.hmap -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-all-target-headers.hmap -iquote /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-project-headers.hmap -F/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator -I/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/include -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources/i386 -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources -include /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-fxwwpcjgrprgkdfftkmpeiqzupyg/GoodUncle_Prefix.pch -c /Users/chuns/Documents/Projects/GoodUncle/Classes/GoodUncleAppDelegate.m -o /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncleAppDelegate.o0#
+
+CCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/RootViewController.o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320072991.717170
+e320072991.809208
+r1
+xCompileC
+xbuild/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/RootViewController.o
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/RootViewController.m320072991#320072991#0(0"0(0#0#83"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/RootViewController.m8629249888#2166"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-generated-files.hmap -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-own-target-headers.hmap -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-all-target-headers.hmap -iquote /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-project-headers.hmap -F/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/include -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources/i386 -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources -include /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-gaifeslzdfsvcxehwuftmynlaney/GoodUncle_Prefix.pch -c /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/RootViewController.m -o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/RootViewController.o /Users/chuns/Documents/Projects/GoodUncle/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321709521.348586
+e321709521.464554
+r1
+xCompileC
+xbuild/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/RootViewController.o
+x/Users/chuns/Documents/Projects/GoodUncle/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/chuns/Documents/Projects/GoodUncle/Classes/RootViewController.m321709521#321709521#0(0"0(0#0#70"/Users/chuns/Documents/Projects/GoodUncle/Classes/RootViewController.m8608566240#2023"    cd /Users/chuns/Documents/Projects/GoodUncle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-generated-files.hmap -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-own-target-headers.hmap -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-all-target-headers.hmap -iquote /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-project-headers.hmap -F/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator -I/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/include -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources/i386 -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources -include /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-fxwwpcjgrprgkdfftkmpeiqzupyg/GoodUncle_Prefix.pch -c /Users/chuns/Documents/Projects/GoodUncle/Classes/RootViewController.m -o /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/TipDetailViewController.o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320073007.909464
+e320073008.055486
+r1
+xCompileC
+xbuild/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/TipDetailViewController.o
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.m320073007#320073008#0(0"0(0#0#88"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.m8628134112#2176"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-generated-files.hmap -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-own-target-headers.hmap -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-all-target-headers.hmap -iquote /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-project-headers.hmap -F/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/include -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources/i386 -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources -include /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-gaifeslzdfsvcxehwuftmynlaney/GoodUncle_Prefix.pch -c /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.m -o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/TipDetailViewController.o0#
+
+CCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/TipDetailViewController.o /Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321709521.403037
+e321709521.502699
+r1
+xCompileC
+xbuild/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/TipDetailViewController.o
+x/Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.m321709521#321709521#0(0"0(0#0#75"/Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.m8607334816#2033"    cd /Users/chuns/Documents/Projects/GoodUncle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-generated-files.hmap -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-own-target-headers.hmap -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-all-target-headers.hmap -iquote /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-project-headers.hmap -F/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator -I/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/include -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources/i386 -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources -include /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-fxwwpcjgrprgkdfftkmpeiqzupyg/GoodUncle_Prefix.pch -c /Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.m -o /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/TipDetailViewController.o0#
+
+CCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/main.o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319878899.087799
+e319878899.152085
+r1
+xCompileC
+xbuild/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/main.o
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/main.m319878899#319878899#0(0"0(0#0#61"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/main.m8603641632#2130"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-generated-files.hmap -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-own-target-headers.hmap -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-all-target-headers.hmap -iquote /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-project-headers.hmap -F/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/include -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources/i386 -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources -include /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-gaifeslzdfsvcxehwuftmynlaney/GoodUncle_Prefix.pch -c /Users/chuns/Documents/MyPrograms/Production/GoodUncle/main.m -o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/main.o0#
+
+CCompileC build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/main.o /Users/chuns/Documents/Projects/GoodUncle/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321709521.123438
+e321709521.348398
+r1
+xCompileC
+xbuild/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/main.o
+x/Users/chuns/Documents/Projects/GoodUncle/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/chuns/Documents/Projects/GoodUncle/main.m321709521#321709521#0(0"0(0#0#48"/Users/chuns/Documents/Projects/GoodUncle/main.m8607599040#1987"    cd /Users/chuns/Documents/Projects/GoodUncle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-generated-files.hmap -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-own-target-headers.hmap -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-all-target-headers.hmap -iquote /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-project-headers.hmap -F/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator -I/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/include -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources/i386 -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources -include /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-fxwwpcjgrprgkdfftkmpeiqzupyg/GoodUncle_Prefix.pch -c /Users/chuns/Documents/Projects/GoodUncle/main.m -o /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.xib
+s320072991.139771
+e320072991.716723
+r1
+xCompileXIB
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.xib
+lSLF07#2@46"CompileXIB Classes/TipDetailViewController.xib320072991#320072991#0(0"0(0#0#90"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.xib8632225472#654"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/TipDetailViewController.nib /Users/chuns/Documents/MyPrograms/Production/GoodUncle/Classes/TipDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/chuns/Documents/MyPrograms/Production/GoodUncle/MainWindow.xib
+s319879446.131700
+e319879446.555792
+r1
+xCompileXIB
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319879446#319879446#0(0"0(0#0#69"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/MainWindow.xib8612872608#620"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/MainWindow.nib /Users/chuns/Documents/MyPrograms/Production/GoodUncle/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/chuns/Documents/MyPrograms/Production/GoodUncle/RootViewController.xib
+s319878897.521630
+e319878898.030069
+r1
+xCompileXIB
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib319878897#319878898#0(0"0(0#0#77"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/RootViewController.xib8604090368#636"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/RootViewController.nib /Users/chuns/Documents/MyPrograms/Production/GoodUncle/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/chuns/Documents/Projects/GoodUncle/Classes/TipDetailViewController.xib
+r0
+
+CCompileXIB /Users/chuns/Documents/Projects/GoodUncle/MainWindow.xib
+r0
+
+CCompileXIB /Users/chuns/Documents/Projects/GoodUncle/RootViewController.xib
+r0
+
+CCopyPlistFile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/TOC.plist TOC.plist
+r0
+
+CCopyPlistFile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/TipArray.plist TipArray.plist
+s319879446.132812
+e319879446.398880
+r1
+xCopyPlistFile
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/TipArray.plist
+xTipArray.plist
+lSLF07#2@19"Copy TipArray.plist319879446#319879446#0(0"0(0#0#69"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/TipArray.plist8601045824#423"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 TipArray.plist --outdir /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app0#
+
+CCopyPlistFile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Tips.plist Tips.plist
+s319896110.220229
+e319896110.505494
+r1
+xCopyPlistFile
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Tips.plist
+xTips.plist
+lSLF07#2@15"Copy Tips.plist319896110#319896110#0(0"0(0#0#65"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/Tips.plist8610793216#419"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Tips.plist --outdir /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app0#
+
+CCopyPlistFile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/UncleTips.plist UncleTips.plist
+s319889052.702914
+e319889052.908479
+r1
+xCopyPlistFile
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/UncleTips.plist
+xUncleTips.plist
+lSLF07#2@20"Copy UncleTips.plist319889052#319889052#0(0"0(0#0#70"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/UncleTips.plist8593602240#424"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 UncleTips.plist --outdir /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app0#
+
+CCopyPlistFile /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Tips.plist Tips.plist
+r0
+
+CGenerateDSYMFile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app.dSYM /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle
+s320073008.088204
+e320073008.114391
+r1
+xGenerateDSYMFile
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app.dSYM
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/GoodUncle.app.dSYM build/Debug-iphonesimulator/GoodUncle.app/GoodUncle320073008#320073008#0(0"0(0#0#106"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle8631479904#437"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle -o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app.dSYM0#
+
+CGenerateDSYMFile /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app.dSYM /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle
+s321709521.885726
+e321709521.958542
+r1
+xGenerateDSYMFile
+x/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app.dSYM
+x/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/GoodUncle.app.dSYM build/Debug-iphonesimulator/GoodUncle.app/GoodUncle321709521#321709521#0(0"0(0#0#93"/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle8607590272#398"    cd /Users/chuns/Documents/Projects/GoodUncle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle -o /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app.dSYM0#
+
+CLd /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle normal i386
+s320073008.055591
+e320073008.088096
+r1
+xLd
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle
+xnormal
+xi386
+lSLF07#2@111"Link /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle320073008#320073008#0(0"0(0#0#0"8637075488#990"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator -F/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator -filelist /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncle.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle0#
+
+CLd /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle normal i386
+s321709521.502807
+e321709521.885620
+r1
+xLd
+x/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle
+xnormal
+xi386
+lSLF07#2@98"Link /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle321709521#321709521#0(0"0(0#0#0"8607072640#925"    cd /Users/chuns/Documents/Projects/GoodUncle    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator -F/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator -filelist /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/Objects-normal/i386/GoodUncle.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/GoodUncle0#
+
+CProcessInfoPlistFile /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Info.plist GoodUncle-Info.plist
+s319878897.150878
+e319878897.520642
+r1
+xProcessInfoPlistFile
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Info.plist
+xGoodUncle-Info.plist
+lSLF07#2@28"Process GoodUncle-Info.plist319878897#319878897#0(0"0(0#0#75"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/GoodUncle-Info.plist28147974419710024#533"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GoodUncle-Info.plist -genpkginfo /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app/Info.plist GoodUncle-Info.plist
+r0
+
+CProcessPCH /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-fxwwpcjgrprgkdfftkmpeiqzupyg/GoodUncle_Prefix.pch.gch GoodUncle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321709519.797269
+e321709521.123294
+r1
+xProcessPCH
+x/var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-fxwwpcjgrprgkdfftkmpeiqzupyg/GoodUncle_Prefix.pch.gch
+xGoodUncle_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile GoodUncle_Prefix.pch321709519#321709521#0(0"0(0#0#62"/Users/chuns/Documents/Projects/GoodUncle/GoodUncle_Prefix.pch6874019580559582208#1874"    cd /Users/chuns/Documents/Projects/GoodUncle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-generated-files.hmap -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-own-target-headers.hmap -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-all-target-headers.hmap -iquote /Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-project-headers.hmap -F/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator -I/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/include -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources/i386 -I/Users/chuns/Documents/Projects/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources -c /Users/chuns/Documents/Projects/GoodUncle/GoodUncle_Prefix.pch -o /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-fxwwpcjgrprgkdfftkmpeiqzupyg/GoodUncle_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-gaifeslzdfsvcxehwuftmynlaney/GoodUncle_Prefix.pch.gch GoodUncle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319878898.030304
+e319878899.087563
+r1
+xProcessPCH
+x/var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-gaifeslzdfsvcxehwuftmynlaney/GoodUncle_Prefix.pch.gch
+xGoodUncle_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile GoodUncle_Prefix.pch319878898#319878899#0(0"0(0#0#75"/Users/chuns/Documents/MyPrograms/Production/GoodUncle/GoodUncle_Prefix.pch8604155072#2004"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-generated-files.hmap -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-own-target-headers.hmap -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-all-target-headers.hmap -iquote /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/GoodUncle-project-headers.hmap -F/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/include -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources/i386 -I/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/GoodUncle.build/Debug-iphonesimulator/GoodUncle.build/DerivedSources -c /Users/chuns/Documents/MyPrograms/Production/GoodUncle/GoodUncle_Prefix.pch -o /var/folders/Bz/BzlKI7GOHo4iF70d29ZiEk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoodUncle_Prefix-gaifeslzdfsvcxehwuftmynlaney/GoodUncle_Prefix.pch.gch0#
+
+CTouch /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app
+s320073008.114554
+e320073008.118236
+r1
+xTouch
+x/Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app
+lSLF07#2@102"Touch /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app320073008#320073008#0(0"0(0#0#0"8609150144#312"    cd /Users/chuns/Documents/MyPrograms/Production/GoodUncle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/chuns/Documents/MyPrograms/Production/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app0#
+
+CTouch /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app
+s321709521.958662
+e321709521.985020
+r1
+xTouch
+x/Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app
+lSLF07#2@89"Touch /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app321709521#321709521#0(0"0(0#0#0"8607438656#286"    cd /Users/chuns/Documents/Projects/GoodUncle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/chuns/Documents/Projects/GoodUncle/build/Debug-iphonesimulator/GoodUncle.app0#
+
